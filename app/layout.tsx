@@ -15,18 +15,12 @@ export default function RootLayout({
   const header = (
     <header>
       <div className="text-center bg-slate-800 p-8 my-6 rounded-tl-full">
-        <Image
-          src="/logo.png"
-          width={40}
-          height={40}
-          className="mx-auto"
-          alt={"logo"}
-        />
+        <Image src="/logo.png" width={400} height={400} className="mx-auto rounded-br-full " alt={"logo"} />
         <Link href="/">
           <h1 className="text-2xl text-white font-bold mt-4 animate-pulse">Blog</h1>
         </Link>
         <p className="text-slate-300 animate-pulse">🤟 Welcome to my tech blog. 💻</p>
-        <Link href="https://github.com/muazerdemyigit">
+        <Link href="https://drive.google.com/file/d/1ZOyKAfIx9_S2ST58Q7mjfwgPQGHVxsdS/view">
           <p className="text-slate-300 animate-pulse">GitHub</p>
         </Link>
       </div>
