@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import "../styles/globals.css";
+import { Analytics } from "@vercel/analytics/react"
+import React from "react";
 export const metadata = {
   title: 'Muaz Erdem YİĞİT',
   description: 'Muaz Erdem Yigit`s Blog',
@@ -37,14 +39,18 @@ export default function RootLayout({
 
 
   return (
+
     <html lang="en">
       <body>
         <div className="mx-auto max-w-2xl px-6 ">
           {header}
           {children}
           {footer}
+          <Analytics />
         </div>
       </body>
     </html>
+
+
   )
 }
