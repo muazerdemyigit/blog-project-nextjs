@@ -83,7 +83,7 @@ class Program
 
 ## `Generic` Kısıtları
 
-- <T> ile `generic` yapı oluştururken `T`'nin olabileceği yapıları kısıtlayabiliriz.
+- `<T>` ile `generic` yapı oluştururken `T`'nin olabileceği yapıları kısıtlayabiliriz.
 
 ```csharp
  interface IRepository<T> where T:class,IEntity,new()// Burada T referans tip olmalı, T IEntity'den implement etmeli ve T new'lenebilir olmalı dedik.
