@@ -14,7 +14,7 @@ date: "19-06-2023"
 
 - Değer tipler; veriyi taşıyan ve taşıdığı veriye göre bellek üzerinde yer dolduran değişken türleridir. Bellekte az yer kaplarlar ve hızlı bir şekilde erişilebilirler. Ayrıca belleğin `Stack` bölgesinde tutulurlar.
 - Referans tipler ise, bellek bölgesinde veri yerine adresi tutarlar ve o adresin gösterdiği yerde de veri tutulur. Başka bir deyişle, bir ifade referans türleri içeriyorsa nesnenin adresi üzerinden işlem yapılmaktadır. Veri taşınmasını gerektiren işlemlerde nesnenin bütün verisi kopyalanmaz.
-  ![Değer ve Referans Tipler](../public/images/interview-1.png)
+  ![Değer ve Referans Tipler](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-1.png)
 
 - Aşağıda bu hangi değişkenlerin hangi tip olduğunu görebilirsiniz:
   ![Değer ve Referans Tipler](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-2.png)
@@ -50,7 +50,7 @@ Console.WriteLine(sehirler1[0]);
 
   > NOT: `Interface`'ler `new()`'lenemez.
 
-  ![Değer ve Referans Tipler](../public/images/interview-3.png)
+  ![Değer ve Referans Tipler](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-3.png)
 
 - Sınıf yapılarımız birden fazla `interface` ile `implement` edilebilir.
 - `Interface` yapıları rehber, yol göstericiler olarak tanımlandığı için içerisinde metot oluşumları ve `property`'ler dışında kod blokları bulunmaz.
@@ -84,7 +84,7 @@ Console.WriteLine(sehirler1[0]);
   - **`L`** iskov's Substitution Principle
   - **`I`** nterface Segregation Principle
   - **`D`** ependency Inversion Principle
-    ![solid](../public/images/interview-4.png)
+    ![solid](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-4.png)
 
 ## **`Single Responsibility Principle`**
 
@@ -179,7 +179,7 @@ Console.WriteLine(sehirler1[0]);
 # **_`MVC` Nedir?_**
 
 - `MVC` bir tasarım desenidir. Katmanlı mimari değildir, arayüz için tasarım desenidir.
-  ![mvc-nedir](../public/images/interview-5.jpg)
+  ![mvc-nedir](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-5.jpg)
 - Üç bileşenden oluşur.
   1. `Model`
   2. `View`
