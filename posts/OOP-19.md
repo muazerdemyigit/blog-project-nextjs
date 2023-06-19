@@ -67,4 +67,4 @@ class Opel : Car
 - Yani her ikisi de birleştirilmiş nesnelerden bütünsel nesneler yapma durumlarını ifade eder.
 - Her ikisinde de `Association`'da olmayan parça-bütün ilişkisi söz konusudur.
 - Her iksinde de sahiplik ilişkisi(`has-a`) vardır.
-  ![oop-6](images/oop-6.png)
+  ![oop-6](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/oop-6.png)

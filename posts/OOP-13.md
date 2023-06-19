@@ -46,4 +46,4 @@ class Opel : Araba //Soldaki, sağdakinden kalıtım alsın. Yani Opel sınıfı
 }
 ```
 
-![oop-5](images/oop-5.png)
+![oop-5](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/oop-5.png)

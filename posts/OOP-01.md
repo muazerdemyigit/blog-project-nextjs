@@ -16,7 +16,7 @@ date: "27-02-2023"
 
 - Nesneler içerisinde bir de tutulan verileri işlemesine yarayan fonksiyonlar bulunur. Bu fonksiyonlar sayesinde nesnenin içindeki veri işlebilir. Biz bu fonksiyonlara ileride `metot/property/indexer` diyeceğiz.
 
-![OOP-1](images/oop-1.png)
+![OOP-1](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/oop-1.png)
 
 - Tüm nesneler aslında bir `class` modellemesidir. **_Eğer nesne oluşturmak istiyorsak kesinlikle `class` ile çalışmalıyız_**
 
@@ -28,7 +28,7 @@ date: "27-02-2023"
 
 - Nesne modeli `class` ile gerçekleşir.
 
-![OOP-2](images/oop-2.png)
+![OOP-2](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/oop-2.png)
 
 - Nesneler referans türlü değerlerdir. Nesneleri tutan değişkenler de referans türlüdür.
 
