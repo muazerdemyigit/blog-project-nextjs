@@ -17,7 +17,7 @@ date: "19-06-2023"
   ![Değer ve Referans Tipler](../public/images/interview-1.png)
 
 - Aşağıda bu hangi değişkenlerin hangi tip olduğunu görebilirsiniz:
-  ![Değer ve Referans Tipler](../public/images/interview-2.png)
+  ![Değer ve Referans Tipler](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/interview-2.png)
 
 Örnek:
 
