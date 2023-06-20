@@ -70,8 +70,11 @@ date: "20-06-2023"
 ## **_`Factory Method` Avantajları ve Dezavantajları_**
 
 ✔️ `Creator` ile `concrete` ürünler arasındaki sıkı bağlantıdan kaçınırsınız.
+
 ✔️ `Single Responsibility Principle`. Ürün oluşturma kodunu programda tek bir yere taşıyarak kodun desteklenmesini kolaylaştırabilirsiniz.
+
 ✔️ `Open/Closed Principle`. Mevcut müşteri kodunu bozmadan programa yeni ürün türlerini tanıtabilirsiniz.
+
 ❌ Modeli uygulamak için birçok yeni alt sınıf tanıtmanız gerektiğinden kod daha karmaşık hale gelir. En iyi durum senaryosu, kalıbı mevcut bir içerik oluşturucu sınıfları hiyerarşisine dahil ettiğiniz zamandır.
 
 > [Kaynak](https://kerteriz.net/factory-method-fabrika-tasarim-deseni/#:~:text=Factory%20Method%2C%20bir%20%C3%BCst%20s%C4%B1n%C4%B1fta,veren%20yarat%C4%B1c%C4%B1%20bir%20tasar%C4%B1m%20desenidir.)
@@ -160,8 +163,11 @@ date: "20-06-2023"
 ## **_`Builder` Avantajları ve Dezavantajları_**
 
 ✔️ Nesneleri adım adım oluşturabilir, `construction` adımlarını erteleyebilir veya adımları `recursive` olarak çalıştırabilirsiniz.
+
 ✔️ Ürünlerin çeşitli temsillerini oluştururken aynı `construction` kodunu yeniden kullanabilirsiniz.
+
 ✔️ `Single Responsibility Principle`. Karmaşık `construction` kodunu ürünün iş mantığından ayırabilirsiniz.
+
 ❌ Desen birden fazla yeni sınıf oluşturmayı gerektirdiğinden, kodun genel karmaşıklığı artar.
 
 > [Kaynak](https://kerteriz.net/builder-pattern-olusturucu-tasarim-deseni/)
