@@ -9,9 +9,9 @@ date: "20-06-2023"
 - Design patterns yani tasarım kalıpları, yazılım geliştirmede yaygın olarak karşılaşılan zorluklar için yeniden kullanılabilir nesne yönelimli yazılımlardır. Yinelenen tasarım sorunlarına zaman içinde test edilmiş yanıtlardır. Hem bir çözümün açıklamasını hem de belirli bir sorunu ele alırken kullanımını açıklar.
 
 - Bir tasarım kalıbı, bırakıp hemen kullanmaya başlayabileceğiniz bir kütüphane veya çerçeve değildir. Birçok geliştiricinin daha önce üstesinden geldiği bir sorunla karşılaştığında kullanılması önerilen, yerleşik bir düşünme tekniğidir. Özetle tasarım kalıpları, halihazırda yapılmış olanı yapmaktan kaçınmanıza yardımcı olur.
-  ![Creational Design Patterns](creational-design-patterns.png)
-  ![Structural Design Patterns](structural-design-patterns.png)
-  ![Behavioral Design Patterns](behavioral-design-patterns.png)
+  ![Creational Design Patterns](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/creational-design-patterns.png)
+  ![Structural Design Patterns](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/structural-design-patterns.png)
+  ![Behavioral Design Patterns](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/behavioral-design-patterns.png)
 
 ---
 
@@ -19,7 +19,7 @@ date: "20-06-2023"
 
 # **_`Singleton Design Pattern`_**
 
-![Singleton Design Pattern](singleton-design-pattern.png)
+![Singleton Design Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/singleton-design-pattern.png)
 
 - `Singleton design pattern`, `creational design pattern` kategorisindedir.
 
@@ -51,7 +51,7 @@ date: "20-06-2023"
 
 # **_`Factory Method Design Pattern`_**
 
-![Factory Method Design Pattern](factory-method-design-pattern.png)
+![Factory Method Design Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/factory-method-design-pattern.png)
 
 - `Factory Method Design Pattern`, `creational design pattern` kategorisindedir.
 
@@ -82,7 +82,7 @@ date: "20-06-2023"
 
 # **_`Abstract Factory Method Design Pattern`_**
 
-![Abstract Factory Method Design Pattern](abstract-factory-design-pattern.png)
+![Abstract Factory Method Design Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/abstract-factory-design-pattern.png)
 
 - `Abstract Factory Method Design Pattern`, `creational design pattern` kategorisindedir.
 - Factory Design Pattern’de tek bir ürün ailesine ait tek bir arayüz mevcutken, Abstract Design Pattern’de farklı ürün aileleri için farklı arayüzler mevcuttur.
@@ -103,7 +103,7 @@ date: "20-06-2023"
 
 # **_`Prototype Pattern`_**
 
-![Prototype Pattern](prototype-design-pattern.png)
+![Prototype Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/prototype-design-pattern.png)
 
 - `Prototype Pattern`, `creational design pattern` kategorisindedir.
 
@@ -127,7 +127,7 @@ date: "20-06-2023"
 
 # **_`Builder Pattern`_**
 
-![Builder Pattern](builder-design-pattern.png)
+![Builder Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/builder-design-pattern.png)
 
 - `Builder Pattern`, `creational design pattern` kategorisindedir.
 
@@ -172,7 +172,7 @@ date: "20-06-2023"
 
 # **_`Facade Pattern`_**
 
-![Facade Pattern](facade-design-pattern.png)
+![Facade Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/facade-design-pattern.png)
 
 - `Facade Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -192,7 +192,7 @@ date: "20-06-2023"
 
 # **_`Adapter Pattern`_**
 
-![Adapter Pattern](adapter-design-pattern.png)
+![Adapter Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/adapter-design-pattern.png)
 
 - `Adapter Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -212,7 +212,7 @@ date: "20-06-2023"
 
 # **_`Composite Pattern`_**
 
-![Composite Pattern](composite-design-pattern.png)
+![Composite Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/composite-design-pattern.png)
 
 - `Composite Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -230,7 +230,7 @@ date: "20-06-2023"
 
 # **_`Proxy Pattern`_**
 
-![Proxy Pattern](proxy-design-pattern.png)
+![Proxy Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/proxy-design-pattern.png)
 
 - `Proxy Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -244,7 +244,7 @@ date: "20-06-2023"
 
 # **_`Decorator Pattern`_**
 
-![Decorator Pattern](decorator-design-pattern.png)
+![Decorator Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/decorator-design-pattern.png)
 
 - `Decorator Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -260,7 +260,7 @@ date: "20-06-2023"
 
 # **_`Bridge Pattern`_**
 
-![Bridge Pattern](bridge-design-pattern.png)
+![Bridge Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/bridge-design-pattern.png)
 
 - `Bridge Pattern`, `Structural Patterns` kategorisindedir.
 
@@ -278,7 +278,7 @@ date: "20-06-2023"
 
 # **_`Strategy Pattern`_**
 
-![Strategy Pattern](strategy-design-pattern.png)
+![Strategy Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/strategy-design-pattern.png)
 
 - `Strategy Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -300,7 +300,7 @@ date: "20-06-2023"
 
 # **_`Observer Pattern`_**
 
-![Observer Pattern](observer-design-pattern.png)
+![Observer Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/observer-design-pattern.png)
 
 - `Observer Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -318,7 +318,7 @@ date: "20-06-2023"
 
 # **_`Chain of Responsibility Pattern`_**
 
-![Chain of Responsibility Pattern](chain-of-responsibility-design-pattern.png)
+![Chain of Responsibility Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/chain-of-responsibility-design-pattern.png)
 
 - `Chain of Responsibility Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -338,7 +338,7 @@ date: "20-06-2023"
 
 # **_`Memento Pattern`_**
 
-![Memento Pattern](memento-design-pattern.png)
+![Memento Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/memento-design-pattern.png)
 
 - `Memento Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -356,7 +356,7 @@ date: "20-06-2023"
 
 # **_`Temple Method Pattern`_**
 
-![Temple Method Pattern](template-method-design-pattern.png)
+![Temple Method Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/template-method-design-pattern.png)
 
 - `Temple Method Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -372,7 +372,7 @@ date: "20-06-2023"
 
 # **_`State Pattern`_**
 
-![State Pattern](state-design-pattern.png)
+![State Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/state-design-pattern.png)
 
 - `State Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -390,7 +390,7 @@ date: "20-06-2023"
 
 # **_`Mediator Pattern`_**
 
-![Mediator Pattern](mediator-design-pattern.png)
+![Mediator Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/mediator-design-pattern.png)
 
 - `Mediator Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -410,7 +410,7 @@ date: "20-06-2023"
 
 # **_`Command Pattern`_**
 
-![Command Pattern](command-design-pattern.png)
+![Command Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/command-design-pattern.png)
 
 - `Command Pattern`, `Behavioral Patterns` kategorisindedir.
 
@@ -428,7 +428,7 @@ date: "20-06-2023"
 
 # **_`Visitor Pattern`_**
 
-![Visitor Pattern](visitor-design-pattern.png)
+![Visitor Pattern](https://raw.githubusercontent.com/muazerdemyigit/blog-project-nextjs/main/public/images/visitor-design-pattern.png)
 
 - `Visitor Pattern`, `Behavioral Patterns` kategorisindedir.
 
